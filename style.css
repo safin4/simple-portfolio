@@ -1,0 +1,140 @@
+body{
+
+
+	margin: 0;
+	font-family: 'Nunito', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+
+  font-size: 40px;
+
+}
+
+
+.tomato-highlight{
+	color: blue;
+}
+
+p{
+
+ color: grey;
+
+}
+
+section{
+
+   height: 500px;
+   padding-bottom: 150px;
+
+}
+
+.header{
+	background-image: url("img/header-bg.png");
+	background-repeat: no-repeat;
+}
+
+.link-button{
+
+ background: linear-gradient(45deg, tomato, orange);
+ color: white;
+ padding: 10px 20px;
+ text-decoration: none;
+ border-radius: 5px;
+
+}
+
+.half-width{
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+	padding-left: 3%;
+
+}
+
+.header1{
+
+  background-image: url("img/latest-work-bg.png");
+	background-repeat: no-repeat;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+	padding: 10px;
+
+}
+
+p{
+
+	margin-bottom: 30px;
+
+}
+
+.work{
+
+  text-align: center; 
+  background-image: url("img/latest-work-bg.png"); 
+  background-repeat: no-repeat;
+  height: 300px;
+
+}
+
+.work img{
+
+   width: 400px;
+   padding: 20px;
+
+}
+
+.work h2{
+
+  margin: 30px;
+
+}
+
+.work1{
+	text-align: center;
+	background-image: url("img/bio.png");
+	padding: 30px;
+}
+
+
+.work1 h2{
+ padding: 30px;
+ font-size: 40px;
+}
+
+h4{
+	color: grey;
+}
+
+.work1 p{
+ color: black;
+}
+
+.contact P{
+	font-size: 15px;
+}
+
+.contact h3{
+	font-size: 30px;
+}
+
+.contact{
+	background: linear-gradient(45deg, orange, tomato);
+	padding: 20px;
+	width: 500px;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 20px;
+}
+
+.contact:hover{
+	box-shadow: 5px 5px grey;
+}
+
+footer p{	
+  text-align: center;
+  color: blue;
+}
